@@ -4,6 +4,7 @@ Python code for accessing and retrieving data from the Twitter API
 The POST request must be made first to gain the bearer token from Twitter's servers. To make the request you must create a Twitter app (https://apps.twitter.com/). After the app is made, copy the following information:
 * Twitter API consumer key
 * Twitter API consumer secret
+
 These are unique to each app created. The consumer key and secret must then be concatenated together sperated by a colon, as shown below:
 
 Consumer secret = xxx111
